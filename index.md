@@ -12,18 +12,26 @@
    - Canvas UDP Touch Handler
 - Google Assistant Relay
 - Rhasspy
+- Google Assistant
 
 ### Hardware
 
 - Intel NUC
 - GTX 1080ti
 - Aeotec Z-stick Gen5 (Z-wave)
-- Conbee II Zigbee gateway
+- Zigbee
+   - Conbee II Zigbee gateway
+   - Hue Hub gen 2
 - HackRF
-- Logitech Circle 2
-- Amcrest
-- Foscam 720p
-- Motion sensors
+- Cameras
+   - DropcamHD
+   - Nest Hello
+   - Logitech Circle 2
+   - Amcrest UltraHD
+   - Foscam 720p
+- Respeaker V2.0
+- Raspberry Pi 4
+- Sensors
    - Hue
    - Aotech
 - Lights
@@ -35,4 +43,12 @@
    - Canvas panels
    - Canvas tiles
    - Lifx tiles
-- Respeaker V2.0
+- Nest/Yale smart lock
+- Google Home
+   - Google mini
+   - Google Nest Hub
+- Media players
+   - Sonos
+- Routers
+   - Asus AC3100 (Ai mesh)
+   - Asus AC1900 (slave)
