@@ -10,6 +10,8 @@
    - Motion controller
    - Config watcher
    - Canvas UDP Touch Handler
+   - Lifx Effect Server
+      - FaceEmber
 - Google Assistant Relay
 - Rhasspy
 - Google Assistant
@@ -39,6 +41,8 @@
    - Logitech Circle 2
    - Amcrest UltraHD
    - Foscam 720p
+- Thermostats
+   - Nest 2nd Gen
 - Respeaker V2.0
 - Raspberry Pi 4
 - Sensors
@@ -66,4 +70,8 @@
    - Sonos
    - Sharp Aquos TV
    - LG OLED65B7A
+- Vacuums
+   - Roomba i7+
+   - Roomba s9+
+   - Braava Jet m6
 
