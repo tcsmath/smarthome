@@ -18,11 +18,21 @@
 
 - Intel NUC
 - GTX 1080ti
-- Aeotec Z-stick Gen5 (Z-wave)
-- Zigbee
-   - Conbee II Zigbee gateway
-   - Hue Hub gen 2
+- Network controllers
+   - Aeotec Z-stick Gen5 (Zwave)
+   - Zigbee
+      - Conbee II Zigbee gateway
+      - Hue Hub gen 2
+- Zwave devices
+   - Aotech multisensors
+   - GE Smart Motion Dimmer
+   - GE Smart Light Switch
+   - GE Smart Dimmer
+   - Lutron Outlet
 - HackRF
+- Routers
+   - Asus AC3100 (Ai mesh)
+   - Asus AC1900 (slave)
 - Cameras
    - DropcamHD
    - Nest Hello
@@ -44,11 +54,16 @@
    - Canvas tiles
    - Lifx tiles
 - Nest/Yale smart lock
-- Google Home
+- Google
+   - Google Home
    - Google mini
    - Google Nest Hub
+   - Chromecast Ultra
+- Media controllers
+   - Apple TV
+   - Roku 4
 - Media players
    - Sonos
-- Routers
-   - Asus AC3100 (Ai mesh)
-   - Asus AC1900 (slave)
+   - Sharp Aquos TV
+   - LG OLED65B7A
+
