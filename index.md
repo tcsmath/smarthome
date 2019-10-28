@@ -1,2 +1,22 @@
 ## Full-stack smart home
 
+- Home Assistant
+- AppDaemon
+- Google Assistant Relay
+- Intel NUC
+- GTX 1080ti
+- Aeotec Z-stick Gen5 (Z-wave)
+- Conbee II Zigbee gateway
+- HackRF
+- Logitech Circle 2
+- Amcrest
+- Foscam 720p
+- Motion sensors
+   - Hue
+   - Aotech
+- Lights
+   - Hue bulbs
+   - Hue light strips
+   - Hue Flourish
+   - Hue Beyond
+   - Lutron Aurora switch
